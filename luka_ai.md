@@ -8,7 +8,7 @@ Luka est l'un des premiers assistants conversationnels que l'on a repéré chez 
 La dernière fois que j'ai testé Luka, j'ai eu la page de conversation dès la première
 ouverture de l'application. Cette fois-ci, on me demande de signup!
 
-![1](images/luka_signup.PNG)
+![1](images/luka-signup.PNG)
 
 Après avoir signup, Luka veut avoir avoir accès à mes contacts. Apparemment, c'est 
 pour m'aider à organiser des plans avec mes potes. Interesting...

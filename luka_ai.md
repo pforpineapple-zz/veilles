@@ -8,7 +8,7 @@ Luka est l'un des premiers assistants conversationnels que l'on a repéré chez 
 La dernière fois que j'ai testé Luka, j'ai eu la page de conversation dès la première
 ouverture de l'application. Cette fois-ci, on me demande de signup!
 
-![1](luka_signup.PNG)
+![1](images/luka_signup.PNG =100x)
 
 Après avoir signup, Luka veut avoir avoir accès à mes contacts. Apparemment, c'est 
 pour m'aider à organiser des plans avec mes potes. Interesting...
@@ -17,7 +17,7 @@ J'invite donc 3 personnes :
 
 Wow. Apparemment ils modifient radicalement leur approche. Après avoir envoyé les invitations (par SMS) j'arrive sur la page suivante : 
 
-![2](luka_main.PNG)
+![2](images/luka_main.PNG =100x)
 
 On dirait que je peux lancer des conversations avec d'autres utilisateurs. Testons 
 avec quelqu'un de la team ! 
@@ -28,7 +28,7 @@ Félix (MG dans la conversation) se dévoue pour me faise ses retours :
 > - Signup en phone number assez smart (après réception appstore link)
 > - Conversation pas du tout intuitive à priori
 
-![3](luka_convo.PNG)
+![3](images/luka_convo.PNG =100x)
 
 Le comportement attendu semble être de parler sur Luka dans le cadre de 
 l'organisation d'une sortie/café/diner... Quelques retours en vrac :

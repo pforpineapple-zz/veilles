@@ -28,7 +28,7 @@ Félix (MG dans la conversation) se dévoue pour me faise ses retours :
 > - Signup en phone number assez smart (après réception appstore link)
 > - Conversation pas du tout intuitive à priori
 
-![3](images/luka_felix.jpeg]
+![3](images/luka_felix.png]
 
 Le comportement attendu semble être de parler sur Luka dans le cadre de 
 l'organisation d'une sortie/café/diner... Quelques retours en vrac :

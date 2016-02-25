@@ -28,10 +28,7 @@ Félix (MG dans la conversation) se dévoue pour me faise ses retours :
 > - Signup en phone number assez smart (après réception appstore link)
 > - Conversation pas du tout intuitive à priori
 
-[3](images/luka_felix.jpeg]
-
-
-![3](images/luka_convo.PNG)
+![3](images/luka_felix.jpeg]
 
 Le comportement attendu semble être de parler sur Luka dans le cadre de 
 l'organisation d'une sortie/café/diner... Quelques retours en vrac :
@@ -41,6 +38,8 @@ l'organisation d'une sortie/café/diner... Quelques retours en vrac :
  - Il faut HL Luka pour qu'il réponde : Ca évite de recevoir des messages pour rien
    (parfois il parlait sans qu'on ne mentionne son nom, maybe un fail ?)
  - CTAs pas mis en avant (contrairement à la conversation 1-1)
+
+![4](images/luka_convo.PNG)
 
 ## Par rapport à Jam
 

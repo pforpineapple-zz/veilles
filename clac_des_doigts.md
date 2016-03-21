@@ -89,22 +89,24 @@ voir si c'est aussi rapide sur une 2eme commande.
 Ce soir, c'est l'aperal ! Je demande donc un pack de douze: 
 
 ```
-A : Je peux avoir un pack de 12 leffes ?
+A (12:10) : Je peux avoir un pack de 12 leffes ?
 
-C : Il faudra  compter 32 euros en moins de 45 minutes. Pouvez vous me donner 
-    l’adresse de livraison svp.
+C (12:12) : Il faudra  compter 32 euros en moins de 45 minutes. Pouvez vous me
+donner l’adresse de livraison svp.
 
-A : C’est l’adresse à laquelle je me suis inscrit : 80 rue de cléry 75002
+A (12:13) : C’est l’adresse à laquelle je me suis inscrit : 80 rue de cléry 75002
 
-C : A votre domicile, très bien ;) Clac ?
+C (12:13) : A votre domicile, très bien ;) Clac ?
 
-A : clac
+A (12:14) : clac
 
-C : Votre commande est validée. Merci de votre confiance
+C (12:17) : Votre commande est validée. Merci de votre confiance
 ```
 
 Commande reçue à 13:07. Je n'ai pas reçu de texto de validation comme pour les 
 fleurs cependant. Aussi, aucune vérification d'identité à la porte.
+
+C'est donc **livré en ± 50mn**. Un peu plus long, mais reste sous l'heure.
 
 ### DIVERS
 

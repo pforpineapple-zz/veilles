@@ -30,9 +30,20 @@ Aussi, la commande ne peut marcher qu'avec ses arguments. C'est à dire que
 
 renvoie le message de fail.
 
+Le message de fail est intéressant : Chaque message contient un exemple, et il 
+est toujours différent :) Voici quelques exemples :
+
+>"Remind me to go to the gym at 5pm today"
+>"Remind me to take out the trash tomorrow"
+>"Remind me to hand in math assignment at 2:55pm"
+
 ### JAMMABLE
 
  - Le Help en CTAs : Pour Facebook Users on pourraît penser à un truc similaire.
  - Feedback (équivalent current time) : L'heure n'étant pas notre requirement, 
 on peut récupérer l'école ou la ville de l'utilisateur et répondre une anecdote
 à son sujet.
+ - On pourraît aussi s'inspirer du random d'exemples. La question à se poser est 
+la suivante : Est-ce qu'on a un message qui tombe souvent dans le flow utilisateur ?
+Si oui, on peut (si adapté) y caler un exemple. Je propose de mettre des exemples qui
+tournent dans les messages de "je ne gère pas".

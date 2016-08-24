@@ -129,3 +129,10 @@ A : Je serai débité quand?
 
 C : Vous avez déjà été prélevé ! Tout dépend ensuite de votre banque ;)
 ```
+
+-----
+
+
+Trace de paiement : 
+
+![1](images/paiement_clac.png)
